@@ -1,10 +1,10 @@
 logging:
   level:
-    root:INFO
+    root: INFO
 eureka:
   client:
     service-url:
-      defaultZone:http://localhost:8761/eureka/     
+      defaultZone: http://localhost:8761/eureka/     
 management:
   endpoints:
     web:
